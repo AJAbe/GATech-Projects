@@ -25,3 +25,4 @@ SEC filings to identify emerging “themes” in the stock market.1 By employing
 Processing (NLP) techniques to analyze textual data within SEC filings, we seek to derive
 noteworthy themes, identify key phrases that are indicative of each company or industry’s
 trajectory over time, and recognize patterns in these trends that signal new opportunities.
+
