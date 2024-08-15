@@ -1,4 +1,4 @@
-# Masters
+# Quick Intro on Projects
 I did my Masters in Data Analytics with specialiation in Computation Analytics from Georgia Tech. I got the opportunity to work with wonderful team mates, courses and great projects.
 Sharing details of some projects that I worked on. 
 
